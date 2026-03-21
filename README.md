@@ -8,7 +8,6 @@
 ## 🚀 What I'm Working On
 - 🔹 Improving Data Structures & Algorithms  
 - 🔹 Building Full Stack Projects (MERN & Java)  
-- 🔹 Exploring Machine Learning & DevOps  
 - 🔹 Preparing for Software Engineering roles (2026 batch)  
 
 ---
@@ -26,7 +25,6 @@
 - CSS  
 - React.js  
 - Node.js  
-- Express.js  
 - MongoDB  
 
 ### ⚙️ Tools & Platforms
@@ -47,8 +45,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/your-link  
-- 💻 LeetCode: https://leetcode.com/your-link  
+- 🔗 LinkedIn:https://www.linkedin.com/in/astha-bajpai-494629258
+- 💻 LeetCode:
 - 📧 Email: asthabajpai0201@gmail.com  
 
 ---
