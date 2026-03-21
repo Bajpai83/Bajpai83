@@ -46,7 +46,7 @@
 
 ## 🌐 Connect With Me
 - 🔗 LinkedIn:https://www.linkedin.com/in/astha-bajpai-494629258
-- 💻 LeetCode:
+- 💻 LeetCode:https://leetcode.com/u/bajpai8355/
 - 📧 Email: asthabajpai0201@gmail.com  
 
 ---
